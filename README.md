@@ -54,8 +54,7 @@ Antes de ejecutar la aplicación, asegúrate de tener instalados los siguientes 
 	```
 
 	
-**Endpoints**	
-	
+## Endpoints		
 | Método |Endpoint  |Descripción|
 |--|--|--|
 | POST |/api/recursos  |Crear un nuevo recurso|
@@ -65,10 +64,10 @@ Antes de ejecutar la aplicación, asegúrate de tener instalados los siguientes 
 |DELETE|/api/recursos/{id}|Eliminar un recurso|
 
 
-**Contribuciones**
+## Contribuciones
 Si deseas contribuir a este proyecto, siéntete libre de enviar un pull request o abrir un issue para discutir cambios o mejoras.
 
-**Licencia**
+## Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 ```csharp
 Puedes personalizarlo según sea necesario, pero esta plantilla te dará una buena base para documentar tu proyecto. ¡Espero que te sea útil!```
